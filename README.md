@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me through Instagram - former.dazai
+- 📫 You can reach me through Instagram - osbert.sw
 - 😄 Pronouns: he/him
 
 <!---
